@@ -9,5 +9,6 @@ public class VyomLabApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(VyomLabApplication.class, args);
+        System.out.println("main");
     }
 }
